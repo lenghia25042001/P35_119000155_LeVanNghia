@@ -1,0 +1,8 @@
+D:\P35_119000155_LeVanNghia\LeVanNghia\obj\Debug\net6.0\LeVanNghia.csproj.AssemblyReference.cache
+D:\P35_119000155_LeVanNghia\LeVanNghia\obj\Debug\net6.0\LeVanNghia.GeneratedMSBuildEditorConfig.editorconfig
+D:\P35_119000155_LeVanNghia\LeVanNghia\obj\Debug\net6.0\LeVanNghia.AssemblyInfoInputs.cache
+D:\P35_119000155_LeVanNghia\LeVanNghia\obj\Debug\net6.0\LeVanNghia.AssemblyInfo.cs
+D:\P35_119000155_LeVanNghia\LeVanNghia\obj\Debug\net6.0\LeVanNghia.csproj.CoreCompileInputs.cache
+D:\P35_119000155_LeVanNghia\LeVanNghia\obj\Debug\net6.0\LeVanNghia.MvcApplicationPartsAssemblyInfo.cache
+D:\P35_119000155_LeVanNghia\LeVanNghia\obj\Debug\net6.0\LeVanNghia.RazorAssemblyInfo.cache
+D:\P35_119000155_LeVanNghia\LeVanNghia\obj\Debug\net6.0\LeVanNghia.RazorAssemblyInfo.cs

@@ -2,7 +2,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace LeVanNghia.Model
 {
-    public class News
+    public class comment
     {
         [Key]
         public int ID { get; set; }
@@ -13,6 +13,6 @@ namespace LeVanNghia.Model
         [Required]
         public string Author { get; set; }
         
-        public DataTime CreatedAt { get; set; }
+        public DateTime CreatedAt { get; set; }
     }
 }

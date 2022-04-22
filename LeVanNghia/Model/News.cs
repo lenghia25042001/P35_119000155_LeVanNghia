@@ -1,4 +1,5 @@
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace LeVanNghia.Model
 {
@@ -7,25 +8,25 @@ namespace LeVanNghia.Model
         [Key]
         public int ID { get; set; }
         [Required]
-        [MaxLegth(200)]
-        [MinLegth(50)]
+        [MaxLength(200)]
+        [MinLength(50)]
         public string Title { get; set; }
         [Required]
         public string ImageUrl { get; set; }
         [Required]
-        [MaxLegth(500)]
-        [MinLegth(100)]
+        [MaxLength(500)]
+        [MinLength(100)]
         public string Content { get; set; }
         [Required]
         public string Author { get; set; }
 
-        public DataTime CreatedAt { get; set; }
+        public DateTime CreatedAt { get; set; }
 
         [ForeignKey("CategotyID")]
 
         public Category? Category{get; set; }
 
-        public ICollection<Content>? comments{get; set; }
+        public ICollection<comment>? comments{get; set; }
         
     }
 }

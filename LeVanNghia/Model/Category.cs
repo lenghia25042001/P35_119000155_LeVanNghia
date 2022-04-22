@@ -8,7 +8,7 @@ namespace LeVanNghia.Model
 
         public int ID { get; set; }
         [Required]
-        [MaxLegth(200)]
+        [MaxLength(200)]
         public string Name { get; set; }
     }
 

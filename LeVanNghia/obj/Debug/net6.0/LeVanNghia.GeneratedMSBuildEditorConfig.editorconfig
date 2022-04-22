@@ -15,12 +15,72 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\P35_119000155_LeVanNghia\LeVanNghia
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/P35_119000155_LeVanNghia/LeVanNghia/Pages/Category/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/P35_119000155_LeVanNghia/LeVanNghia/Pages/Category/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/P35_119000155_LeVanNghia/LeVanNghia/Pages/Category/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/P35_119000155_LeVanNghia/LeVanNghia/Pages/Category/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/P35_119000155_LeVanNghia/LeVanNghia/Pages/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/P35_119000155_LeVanNghia/LeVanNghia/Pages/comment/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY29tbWVudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/P35_119000155_LeVanNghia/LeVanNghia/Pages/comment/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY29tbWVudFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/P35_119000155_LeVanNghia/LeVanNghia/Pages/comment/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY29tbWVudFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/P35_119000155_LeVanNghia/LeVanNghia/Pages/comment/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY29tbWVudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/P35_119000155_LeVanNghia/LeVanNghia/Pages/comment/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY29tbWVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/P35_119000155_LeVanNghia/LeVanNghia/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/P35_119000155_LeVanNghia/LeVanNghia/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/P35_119000155_LeVanNghia/LeVanNghia/Pages/News/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmV3c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/P35_119000155_LeVanNghia/LeVanNghia/Pages/News/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmV3c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/P35_119000155_LeVanNghia/LeVanNghia/Pages/News/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmV3c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/P35_119000155_LeVanNghia/LeVanNghia/Pages/News/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmV3c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/P35_119000155_LeVanNghia/LeVanNghia/Pages/News/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmV3c1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/P35_119000155_LeVanNghia/LeVanNghia/Pages/Privacy.cshtml]
